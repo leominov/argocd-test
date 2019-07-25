@@ -12,4 +12,4 @@ spec:
       restartPolicy: OnFailure
       containers:
       - name: app
-        image: eu.gcr.io/utilities-212509/gitops-poc/pfa-auth:latest
+        image: alpine:3.9
